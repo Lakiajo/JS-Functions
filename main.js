@@ -31,3 +31,10 @@ const nuggetizer = (animal) => {
 
 }
 console.log(nuggetizer('pig'));
+
+
+const dogBreed = (dogBreed) => {
+    return `My favorite dog breed is ${dogBreed}`;
+}
+
+console.log(dogBreed('none'))
