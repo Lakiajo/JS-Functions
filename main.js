@@ -26,4 +26,8 @@ namePrinter('Cardi', 'B!');
 
 const test = num => console.log(num);
 
-alert(firstName + lastName);
+const nuggetizer = (animal) => {
+     return `processed ${animal}`;
+
+}
+console.log(nuggetizer('pig'));
