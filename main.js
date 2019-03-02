@@ -23,7 +23,6 @@ const namePrinter = (firstName, lastName) => {
 }
 namePrinter('Tokyo', 'Jetz');
 namePrinter('Cardi', 'B!');
-namePrinter('Kash', 'Doll');
 
 const test = num => console.log(num);
 
